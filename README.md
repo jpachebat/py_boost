@@ -17,6 +17,7 @@ Data in the data folder were obtained by running the `create_data.py` file. Each
 
 If you wish to recreate data, run:
 ```bash
+cd experiments
 python create_data.py
 ```
 
