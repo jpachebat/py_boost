@@ -2,7 +2,7 @@
 
 Here is the code and data for NeurIPS' 2022 Higher Order Optimization workshop paper: "Higher Order Optimization for Gradient Boosting Decision Trees".
 
-It is based on [py_boost](https://github.com/sb-ai-lab/Py-Boost). 
+It is based on [Py_Boost](https://github.com/sb-ai-lab/Py-Boost). 
 
 ## Data
 
@@ -10,6 +10,6 @@ Data in the data folder were obtained by running the `create_data.py` file. Each
 
 ## Experiments
 
-To run the experiments, you must meet the requirements of [py_boost](https://github.com/sb-ai-lab/Py-Boost).
+To run the experiments, you must meet the requirements of [Py_Boost](https://github.com/sb-ai-lab/Py-Boost).
 
 
