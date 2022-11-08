@@ -8,6 +8,7 @@ It is based on [Py_Boost](https://github.com/sb-ai-lab/Py-Boost).
 
 To run the experiments, you have to download the repo and install requirements.
 
+We use the same requirements as Py_Boost. To install the requirements, install Py_Boost and uninstall it. More on installation on their [page](https://github.com/sb-ai-lab/Py-Boost). 
 
 
 ## Data
