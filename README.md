@@ -36,5 +36,5 @@ a `/results` folder will be created, with results in format `json`.
 
 Results are displayed in the `results.ipynb` notebook. 
 
-## Cite the paper
+## Citation
 
