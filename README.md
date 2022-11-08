@@ -21,6 +21,8 @@ cd experiments
 python create_data.py
 ```
 
+The previous generated data will be overwritten.
+
 ## Experiments
 
 To run the experiments, you must meet the requirements of [Py_Boost](https://github.com/sb-ai-lab/Py-Boost).
