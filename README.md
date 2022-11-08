@@ -25,6 +25,10 @@ The previous generated data will be overwritten.
 
 ## Experiments
 
-To run the experiments, you must meet the requirements of [Py_Boost](https://github.com/sb-ai-lab/Py-Boost).
-
+To run the experiments:
+```bash
+cd experiments
+python run_experiments.py
+```
+a `/results` will be created, with results in format `json`. 
 
