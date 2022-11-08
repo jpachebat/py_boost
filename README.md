@@ -4,5 +4,8 @@ Here is the code and data for NeurIPS' 2022 Higher Order Optimization workshop p
 
 It is based on py_boost: https://github.com/sb-ai-lab/Py-Boost
 
+## Data
+
+Data in the data folder were obtained by running the `create_data.py` file.
 ## Installation 
 
