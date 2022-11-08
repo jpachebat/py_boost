@@ -30,5 +30,11 @@ To run the experiments:
 cd experiments
 python run_experiments.py
 ```
-a `/results` will be created, with results in format `json`. 
+a `/results` folder will be created, with results in format `json`. 
+
+## Results
+
+Results are displayed in the `results.ipynb` notebook. 
+
+## Cite the paper
 
